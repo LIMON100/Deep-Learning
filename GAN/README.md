@@ -1,1 +1,1 @@
-# Simple shop App
+# Generative Adversial Network
